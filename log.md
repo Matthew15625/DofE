@@ -17,3 +17,8 @@
 |------|------|-------------|
 |23/3/21|60 mins|Finished chapter 1.6, learned about padding with printf, and arrays|
 
+## Week 4 - 29/3/21
+| Date | Time | Description |
+|------|------|-------------|
+|4/4/21|60 mins|Finished chapter 1.7 and 1.8, started chapter 1.9|
+
