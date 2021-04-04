@@ -1,0 +1,14 @@
+Helpful zsh aliases
+
+Creates a new file then opens it:
+alias create='f() { touch $1; open $1 };f'
+
+Builds the c files, and runs it. Optional second arg which is piped in to the program.
+alias run='f() {
+    cc $1
+    if [[ $2 != "" ]]
+    then
+       	cat $2 | ./a.out
+    else
+        ./a.out
+    fi
