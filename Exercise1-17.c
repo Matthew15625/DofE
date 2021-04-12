@@ -8,23 +8,21 @@
  
  */
 
-char getLine(int len)[];
+int getLine(char line[]);
 
 int main() {
     int len = 1;
     char line[1000];
     
     
-    while (line=getLine(len) == line && len > 0)
+    while ((len=getLine(line)) > 0)
         if (len > 80)
             printf("%s", line);
     
     return 0;
 }
 
-char getLine(int len)[] {
-    char line[1000];
-    
+int getLine(char line[]) {
     int c, i;
     
     for (i = 0; (c=getchar()) != '\n' && c != EOF; ++i) {
@@ -35,7 +33,6 @@ char getLine(int len)[] {
         ++i;
     }
     line[i] = '\0';
-    len = i;
     
-    return line;
+    return i;
 }
