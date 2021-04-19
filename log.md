@@ -22,8 +22,14 @@
 |------|------|-------------|
 |4/4/21|60 mins|Finished chapter 1.7 and 1.8, started chapter 1.9|
 
-## Week 5 - 29/3/21
+## Week 5 - 5/4/21
 | Date | Time | Description |
 |------|------|-------------|
 |5/4/21|60 mins|Finished chapter 1.9 - Completed Exercises 1-17,18,19|
+
+## Week 6 - 12/4/21
+| Date | Time | Description |
+|------|------|-------------|
+|18/4/21|60 mins|Read chapter 1.10 - Scope, and completed exercises 1-20 and 1-21|
+
 
