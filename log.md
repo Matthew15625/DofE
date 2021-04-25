@@ -36,5 +36,6 @@
 | Date | Time | Description |
 |------|------|-------------|
 |23/4/21|30 mins|Started Exercise 1-22, and learned how to get text input from the console|
+|23/4/21|40 mins|Finished fold.c|
 
 
