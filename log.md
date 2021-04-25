@@ -32,4 +32,10 @@
 |------|------|-------------|
 |18/4/21|60 mins|Read chapter 1.10 - Scope, and completed exercises 1-20 and 1-21|
 
+## Week 7 - 19/4/21
+| Date | Time | Description |
+|------|------|-------------|
+|23/4/21|30 mins|Started Exercise 1-22, and learned how to get text input from the console|
+|23/4/21|40 mins|Finished fold.c|
+
 
