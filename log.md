@@ -38,8 +38,12 @@
 |23/4/21|30 mins|Started Exercise 1-22, and learned how to get text input from the console|
 |23/4/21|40 mins|Finished fold.c|
 
-## Week 7 - 26/4/21
+## Week 8 - 26/4/21
 | Date | Time | Description |
 |------|------|-------------|
 |2/5/21|70 mins|Finished exercises 1-23, 2-1 and 2-2, and read through chapters 2.1 to 2.6|
 
+## Week 9 - 3/5/21
+| Date | Time | Description |
+|------|------|-------------|
+|9/5/21|60 mins|Completed chapters 2.7 and 2.8, type conversion and increment and decrement operators|
